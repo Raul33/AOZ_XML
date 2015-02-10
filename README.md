@@ -22,6 +22,9 @@ Libreria XML
         AOZ_XMLComplexElement:Elemento complejo XML que puede contener otros elementos.
       </li>
       <li>
+        AOZ_XMLComment: Comentario XML.
+      </li>
+      <li>
         AOZ_XMLDocument: Documento XML con un nodo principal del tipo AOZ_XMLComplexElement al que se le pueden añadir más nodos.
       </li>
     </ul>
